@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 1 Programacion Grafica 2", "Assembly-CSharp.csproj", "{FA11E3CB-77C2-FB47-511D-0413103717BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 1 Programacion Grafica 2", "Assembly-CSharp-Editor.csproj", "{128C02C4-3FF3-0B33-5855-12AE34410923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA11E3CB-77C2-FB47-511D-0413103717BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA11E3CB-77C2-FB47-511D-0413103717BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA11E3CB-77C2-FB47-511D-0413103717BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA11E3CB-77C2-FB47-511D-0413103717BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{128C02C4-3FF3-0B33-5855-12AE34410923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128C02C4-3FF3-0B33-5855-12AE34410923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128C02C4-3FF3-0B33-5855-12AE34410923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128C02C4-3FF3-0B33-5855-12AE34410923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
